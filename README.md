@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2> Hi  👋 I'm anyely-castillo </h2>
 
-<!--
-**anyely-castillo/anyely-castillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+anyelycastillo25@gmail.com 
 
-Here are some ideas to get you started:
+- I have +1 year of experience as a frontend developer, together with the team I manage the best results and optimize the process of each IT project. 
+- Passionate achieves a minimalist, clean and practical visual experience for the user
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Angie = {
+  pronouns: "she" | "her",
+  code: [ Javascript, HTML, CSS ],
+  tools: [Git, Wordpress, Figma, Sass, Bootstrap, Tailwind],
+  learning:[React,Angular,Node],
+  working: "I’m currently working on: Develop New Skills"
+}
+```
